@@ -15,7 +15,7 @@ I'm a React Frontend Developer based in Poland. Passionate about creating dynami
 I enjoy working with a variety of tools and technologies to bring ideas to life. Here are some of the key skills in my toolbox:
 
 - **🔧 Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-- **🚀 Frontend:**![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
+- **🚀 Frontend:** ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blueviolet?style=flat-square&logo=css3&logoColor=white)
 - **📦 State Management:** ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-00d7a7?style=flat-square)
 - **🔗 Version Control:** ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - **⚙️ Build Tools:** ![Webpack](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white) ![Babel](https://img.shields.io/badge/-Babel-f9dc3e?style=flat-square&logo=babel&logoColor=black)
@@ -37,7 +37,7 @@ You can explore my repositories to see these technologies in action!
 
 ![lenarmathias GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lenarmathias&theme=react&bg_color=20232a&title_color=60d9fa)
 
-## ![Contact Me Section](./images//sections/ContactMeBanner.png)
+## ![Contact Me Section](./images/sections/ContactMeBanner.png)
 
 Don't hesitate to get in touch using any of the following methods:
 

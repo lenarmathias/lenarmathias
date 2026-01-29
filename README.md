@@ -29,11 +29,6 @@ You can explore my repositories to see these technologies in action!
 
 ## ![GitHub Stats Section](./images/sections/GHStatsBanner.png)
 
-![lenarmathias GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenarmathias&show_icons=true&count_private=true&hide=issues,stars&theme=react)
-![lenarmathias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenarmathias&layout=compact&bg_color=20232a&title_color=60d9fa&text_color=ffffff)
-
-![lenarmathias GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lenarmathias&theme=nord&row=1&rank=-C,-D,-?)
-
 ![lenarmathias GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lenarmathias&theme=react&bg_color=20232a&title_color=60d9fa)
 
 ## ![Contact Me Section](./images/sections/ContactMeBanner.png)

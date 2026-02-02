@@ -27,17 +27,12 @@ I enjoy working with a variety of tools and technologies to bring ideas to life.
 
 You can explore my repositories to see these technologies in action!
 
-## ![GitHub Stats Section](./images/sections/GHStatsBanner.png)
-
-![lenarmathias GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lenarmathias&theme=react&bg_color=20232a&title_color=60d9fa)
-
 ## ![Contact Me Section](./images/sections/ContactMeBanner.png)
 
 Don't hesitate to get in touch using any of the following methods:
 
 <p>
 <a href="mailto:lenarmathias@gmail.com"><img height="80" src="./images/icons/gmailIcon.svg" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lenarmathias/"><img height="80" src="./images/icons/linkedInIcon.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
 </p>
 
 Feel free to reach out for collaborations, questions, or just to say hello! 👋
